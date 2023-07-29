@@ -13,7 +13,7 @@ export default function Header(props: any) {
         {/**Name text */}
         <div className='w-full h-fit flex flex-col justify-center'>
           <h4 className='w-fit h-fit text-green-300 text-sm sm:text-base md:text-lg lg:text-xl xl:text-2xl'>
-            I'm
+            I&apos;m
           </h4>
           <h2 className='w-2/3 h-fit text-gray-950 text-xl sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl tracking-wide font-bold text-start drop-shadow-2xl flex z-30'>
             John Camargo
